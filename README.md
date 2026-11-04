@@ -5,7 +5,7 @@ Aplikasi pemutar musik berbasis Pygame dengan tampilan User Interface (UI) bernu
 ## 📸 Preview Tampilan
 
 <p align="center">
-  <img src="doc/preview.png" alt="Preview Tampilan Aplikasi" width="100%">
+  <img src="doc/preview.png" alt="Preview Tampilan Aplikasi" width="40%">
 </p>
 
 ## ✨ Fitur Utama
